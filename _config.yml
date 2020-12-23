@@ -21,7 +21,7 @@ darkmode: never
 # Social links
 
 github_username:  simonezz
-linkedin_username: saeheejeon25@gmail.com
+linkedin_username: Saehee Jeon
 
 # Additional icon links
 additional_links:
@@ -44,13 +44,15 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   어렸을 때부터 수학을 좋아하여 수학과에 진학 후 코딩에 관심이 생겨 이후 코딩의 재미에 푹 빠져살고 있는 개발자 전세희입니다.
   석사로 이미지 프로세싱 분야를 전공 후 도메인에 국한되지 않고 이미지, 자연어 모두에 관심을 가지고 꾸준히 공부하고 있습니다.
-  현재 한 스타트업에서 추천시스템 연구/개발 직무에 몸담고 있습니다.
+  현재 한 스타트업에서 추천시스템 연구/개발 직무에 몸담고 있습니다. 데이터 자체의 유사성을 텍스트/이미지 기반으로 측정하는 방법과
+  유저의 활동로그를 기반으로 추정하는 방법을 사용하고 있습니다.
 
   관심 분야
   - Computer Vision : segmentation, detection, classification, OCR
   - NLP : sentence embeddings, word embeddings, translation
   - Recommendation system, ranking
   - Data Engineering
+  - Graph Neural Network
 
 content:
   - title: Projects # Title for the section
