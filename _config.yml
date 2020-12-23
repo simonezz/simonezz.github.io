@@ -49,7 +49,7 @@ about_content: | # this will include new lines to allow paragraphs
   관심 분야
   - Computer Vision : segmentation, detection, classification, OCR
   - NLP : sentence embeddings, word embeddings, translation
-  - Recommendation
+  - Recommendation system, ranking
   - Data Engineering
 
 content:
