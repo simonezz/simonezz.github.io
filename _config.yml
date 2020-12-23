@@ -77,25 +77,35 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Freewheelin
+        sub_title: 추천시스템 연구/개발
+        caption: July 2020 - present
+        link: https://www.notion.so/789ce85ed7c644438e070a3bda6d7c6f
         quote: >
-          Short description of the company (optional)
+          수학문제 은행 소프트웨어 스타트업
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          학생들의 성적 향상을 위한 추천시스템 개발(유사문제 검색, 개인화 맞춤 서비스 제공)
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: 이화여자대학교
+        sub_title: BA Mathematics
+        caption: 2014-2018
         quote: >
-          Short institution or course description (optional)
+          수학 심화전공, 계산과학 부전공
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          수학을 주전공으로 하며 계산과학 부전공을 통해 컴퓨터 공학 분야 수업을 수강.
+    
+      - layout: top-right
+        title: 이화여자대학교
+        sub_title: MS Mathematics
+        caption: 2018-2020
+        quote: >
+          수학 - 응용해석학 Image processing Lab 전공
+        description: | # this will include new lines to allow paragraphs
+          Image processing을 세부전공으로 Image Denoising, Approximation Theory,
+          Numerical Analysis, Deep Learning 분야를 연구.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
