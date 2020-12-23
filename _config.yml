@@ -89,16 +89,16 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: 이화여자대학교
+        title: Ewha w.univ
         sub_title: BA Mathematics
         caption: 2014-2018
         quote: >
           수학 심화전공, 계산과학 부전공
         description: | # this will include new lines to allow paragraphs
           수학을 주전공으로 하며 계산과학 부전공을 통해 컴퓨터 공학 분야 수업을 수강.
-    
+
       - layout: top-right
-        title: 이화여자대학교
+        title: Ewha w.univ
         sub_title: MS Mathematics
         caption: 2018-2020
         quote: >
