@@ -12,26 +12,16 @@ email: saeheejeon25@gmail.com
 # email_title: Email (Email title override)
 phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: simonezz.tistory.com
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: never
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+
+github_username:  simonezz
+linkedin_username: saeheejeon25@gmail.com
 
 # Additional icon links
 additional_links:
@@ -52,13 +42,9 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  어렸을 때부터 수학을 좋아하여 수학과에 진학 후 코딩에 관심이 생겨 이후 코딩의 재미에 푹 빠져살고 있는 개발자 전세희입니다.
+  석사로 이미지 프로세싱 분야를 전공 후 도메인에 국한되지 않고 이미지, 자연어 모두에 관심을 가지고 꾸준히 공부하고 있습니다.
+  현재 한 스타트업에서 추천시스템 연구/개발 직무에 몸담고 있습니다.
 
 content:
   - title: Projects # Title for the section
