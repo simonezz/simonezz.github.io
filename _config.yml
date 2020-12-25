@@ -105,12 +105,15 @@ content:
         description: | # this will include new lines to allow paragraphs
           Image processing을 세부전공으로 Image Denoising, Approximation Theory,
           Numerical Analysis, Deep Learning 분야를 연구.
-  - title: A Little More About Me
+  - title: Interest
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      데이터 엔지니어링, 데이터 사이언스, 컴퓨터비전, 자연어처리, aws, 자전거, 클라이밍, 불어, 영어회화, 독서(특히 정세랑 작가님 책들), 인공지능 윤리, 피아
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  - title: Skills
+      layout: text
+      content: | # this will include new lines to allow paragraphs
+        Python, Matlab, C, SQL, Elasticsearch, English
 
 # Footer
 footer_show_references: true
