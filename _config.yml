@@ -94,7 +94,7 @@ content:
         quote: >
           수학 심화전공, 계산과학 부전공
         description: | # this will include new lines to allow paragraphs
-          수학을 주전공으로 하며 계산과학 부전공을 통해 컴퓨터 공학 분야 수업을 수강.
+          수학을 주전공으로 하며 계산과학 부전공을 통해 코딩 입문.
 
       - layout: top-right
         title: Ewha w.univ
