@@ -6,7 +6,7 @@ repository: simonezz.github.io
 version: 2
 
 # Personal info
-name: Saehee Jeon
+name: Simonezz
 title: 꾸준히 공부하는 개발자
 email: saeheejeon25@gmail.com
 # email_title: Email (Email title override)
@@ -39,7 +39,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: Saehee Jeon
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   어렸을 때부터 수학을 좋아하여 수학과에 진학 후 코딩에 관심이 생겨 이후 코딩의 재미에 푹 빠져살고 있는 개발자 전세희입니다.
