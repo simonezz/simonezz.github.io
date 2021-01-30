@@ -85,6 +85,7 @@ content:
           학생들의 성적 향상을 위한 추천시스템 개발(유사문제 검색, 학생 맞춤 서비스 개발)
         quote: >
           수학문제 은행 소프트웨어 스타트업
+          
   - title: Education
     layout: list
     content:
@@ -95,10 +96,10 @@ content:
         quote: >
           수학 심화전공, 계산과학 부전공
         description: | # this will include new lines to allow paragraphs
-          - GPA 3.96/4.5
-          - S.E.M(Sweet Ewha Math) 동아리 활동(2015/03~2017/12)
-          - 수학과 편집부 활동(2016/04~2018/02)
-          - 이화 모교 방문단 활동(2014/05)
+           ✔️ GPA 3.96/4.5
+           ✔️ S.E.M(Sweet Ewha Math) 동아리 활동(2015/03~2017/12)
+           ✔️ 수학과 편집부 활동(2016/04~2018/02)
+           ✔️ 이화 모교 방문단 활동(2014/05)
         
           
 
@@ -111,7 +112,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Image processing을 세부전공으로 Image Denoising, Approximation Theory,
           Numerical Analysis, Deep Learning 분야 학습/연구.
-          - GPA 4.8/4.5
+          ✔️ GPA 4.8/4.5
         url : http://dspace.ewha.ac.kr/handle/2015.oak/253127
           
   - title: Interest
