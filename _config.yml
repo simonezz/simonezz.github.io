@@ -59,7 +59,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Project name
+        title: Recommender System
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
@@ -73,6 +73,7 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
+          
   - title: Experience
     layout: list
     content:
@@ -80,8 +81,6 @@ content:
         title: Freewheelin
         sub_title: 추천시스템 연구/개발
         caption: July 2020 - present
-        quote: >
-          수학문제 은행 소프트웨어 스타트업
         description: | # this will include new lines to allow paragraphs
           학생들의 성적 향상을 위한 추천시스템 개발(유사문제 검색, 학생 맞춤 서비스 개발)
   - title: Education
@@ -111,7 +110,7 @@ content:
           Image processing을 세부전공으로 Image Denoising, Approximation Theory,
           Numerical Analysis, Deep Learning 분야 학습/연구.
           - GPA 4.8/4.5
-          - 석사 졸업 논문 : http://dspace.ewha.ac.kr/handle/2015.oak/253127
+        url : http://dspace.ewha.ac.kr/handle/2015.oak/253127
           
   - title: Interest
     layout: text
