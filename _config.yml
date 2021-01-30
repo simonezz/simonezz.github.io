@@ -42,15 +42,15 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  어렸을 때부터 수학을 좋아하여 수학과에 진학 후 코딩에 관심이 생겨 이후 코딩의 재미에 푹 빠져살고 있는 개발자 전세희입니다.
-  석사로 이미지 프로세싱 분야를 전공 후 도메인에 국한되지 않고 이미지, 자연어 모두에 관심을 가지고 꾸준히 공부하고 있습니다.
-  현재 한 스타트업에서 추천시스템 연구/개발 직무에 몸담고 있습니다. 데이터 자체의 유사성을 텍스트/이미지 기반으로 측정하는 방법과
-  유저의 활동로그를 기반으로 추정하는 방법을 사용하고 있습니다.
-
+  어렸을 때부터 수학을 좋아하여 수학과에 진학 후 프로그래밍에 관심이 생겨 부전공 이후 개발의 재미에 빠져 꾸준히 공부하고 있는 전세희입니다.
+  석사로 이미지 프로세싱 분야를 전공 후 이미지, 자연어 도메인에 관심을 가지고 꾸준히 공부하고 있습니다.
+  현재 한 스타트업에서 추천시스템 연구/개발 직무를 맡고 있습니다. 콘텐츠의 유사성을 텍스트/이미지 기반으로 측정하는 방법을 개발한 후 이를 고도화 하는 과정에 있습니다.
+  유저의 활동로그를 기반으로 추천하는 방법 또한 기획중입니다.
+  
   관심 분야
+  - Recommendation system, ranking, information retrieval
   - Computer Vision : segmentation, detection, classification, OCR
   - NLP : sentence embeddings, word embeddings, translation
-  - Recommendation system, ranking
   - Data Engineering
   - Graph Neural Network
 
@@ -83,7 +83,7 @@ content:
         quote: >
           수학문제 은행 소프트웨어 스타트업
         description: | # this will include new lines to allow paragraphs
-          학생들의 성적 향상을 위한 추천시스템 개발(유사문제 검색, 개인화 맞춤 서비스 제공)
+          학생들의 성적 향상을 위한 추천시스템 개발(유사문제 검색, 학생 맞춤 서비스 개발)
   - title: Education
     layout: list
     content:
@@ -94,7 +94,12 @@ content:
         quote: >
           수학 심화전공, 계산과학 부전공
         description: | # this will include new lines to allow paragraphs
-          수학을 주전공으로 하며 계산과학 부전공을 통해 컴퓨터 공학 분야 수업을 수강.
+          - GPA 3.96/4.5
+          - S.E.M(Sweet Ewha Math) 동아리 활동(2015/03~2017/12)
+          - 수학과 편집부 활동(2016/04~2018/02)
+          - 이화 모교 방문단 활동(2014/05)
+        
+          
 
       - layout: top-right
         title: Ewha w.univ
@@ -104,11 +109,16 @@ content:
           수학 - 응용해석학 Image processing Lab 전공
         description: | # this will include new lines to allow paragraphs
           Image processing을 세부전공으로 Image Denoising, Approximation Theory,
-          Numerical Analysis, Deep Learning 분야를 연구.
+          Numerical Analysis, Deep Learning 분야 학습/연구.
+          - GPA 4.8/4.5
+          - 석사 졸업 논문 : http://dspace.ewha.ac.kr/handle/2015.oak/253127
+          
   - title: Interest
     layout: text
     content: | # this will include new lines to allow paragraphs
-      데이터 엔지니어링, 데이터 사이언스, 컴퓨터비전, 자연어처리, aws, 자전거, 클라이밍, 불어, 영어회화, 독서(특히 정세랑 작가님 책들), 인공지능 윤리, 피아
+      - tech : 추천시스템, 데이터 사이언스, 컴퓨터비전, 자연어처리, aws, 데이터 엔지니어링
+      - workout : 자전거, 클라이밍, 요가
+      - else : 불어, 영어회화, 독서(특히 정세랑 작가님 책들), 인공지능 윤리, 피아
 
   - title: Skills
     layout: text
