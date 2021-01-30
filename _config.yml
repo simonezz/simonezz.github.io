@@ -60,17 +60,10 @@ content:
     content:
       - layout: left
         title: Recommender System
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link: https://github.com/simonezz/RecSys
         link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Find similar data using Elasticsearch 
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
           
