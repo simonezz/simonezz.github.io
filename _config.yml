@@ -92,24 +92,23 @@ content:
       - layout: top-right
         title: Ewha w.univ
         sub_title: BA Mathematics
-        caption: 2014-2018
+        caption: 2014.03 -2018.02
         quote: >
           수학 심화전공, 계산과학 부전공
-        description: | # this will include new lines to allow paragraphs
+        description: 
            GPA 3.96/4.5
            S.E.M(Sweet Ewha Math) 동아리 활동(2015/03~2017/12)
            수학과 편집부 활동(2016/04~2018/02)
            이화 모교 방문단 활동(2014/05)
-        
-          
 
+        
       - layout: top-right
         title: Ewha w.univ
         sub_title: MS Mathematics
         caption: 2018-2020
         quote: >
           수학 - 응용해석학 Image processing Lab 전공
-        description: | # this will include new lines to allow paragraphs
+        description:  # this will include new lines to allow paragraphs
           Image processing을 세부전공으로 Image Denoising, Approximation Theory,
           Numerical Analysis, Deep Learning 분야 학습/연구.
           GPA 4.8/4.5
