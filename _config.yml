@@ -76,8 +76,6 @@ content:
         caption: July 2020 - present
         description: | # this will include new lines to allow paragraphs
           학생들의 성적 향상을 위한 추천시스템 개발(유사문제 검색, 학생 맞춤 서비스 개발)
-        quote: >
-          수학문제 은행 소프트웨어 스타트업
           
   - title: Education
     layout: list
