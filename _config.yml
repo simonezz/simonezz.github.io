@@ -111,9 +111,9 @@ content:
       데이터 엔지니어링, 데이터 사이언스, 컴퓨터비전, 자연어처리, aws, 자전거, 클라이밍, 불어, 영어회화, 독서(특히 정세랑 작가님 책들), 인공지능 윤리, 피아
 
   - title: Skills
-      layout: text
-      content: | # this will include new lines to allow paragraphs
-        Python, Matlab, C, SQL, Elasticsearch, English
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Python, Matlab, C, SQL, Elasticsearch, English
 
 # Footer
 footer_show_references: true
