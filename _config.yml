@@ -88,7 +88,6 @@ content:
         sub_title: BA Mathematics
         caption: 2014.03 -2018.02
         description: |
-           - GPA 3.96/4.5
            - 수학 전공 / 계산과학 부전공
            - S.E.M(Sweet Ewha Math) 동아리 활동(2015/03~2017/12)
            - 수학과 편집부 활동(2016/04~2018/02)
@@ -100,7 +99,6 @@ content:
         sub_title: MS Mathematics
         caption: 2018.03-2020.02
         description: | # this will include new lines to allow paragraphs
-          - GPA 4.8/4.5
           - Image processing을 세부전공으로 Image Denoising, Approximation Theory,
           - Numerical Analysis, Deep Learning 분야 학습/연구.
           
