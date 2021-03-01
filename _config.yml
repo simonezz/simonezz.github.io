@@ -48,9 +48,9 @@ about_content: | # this will include new lines to allow paragraphs
   유저의 활동로그를 기반으로 추천하는 방법 또한 기획중입니다.
   
   관심 분야
-  - Recommendation system, ranking, information retrieval
   - Computer Vision : segmentation, detection, classification, OCR
   - NLP : sentence embeddings, word embeddings, translation
+  - Recommendation system, ranking, information retrieval
   - Data Engineering
   - Graph Neural Network
 
