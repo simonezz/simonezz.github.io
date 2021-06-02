@@ -6,7 +6,7 @@ repository: simonezz.github.io
 version: 2
 
 # Personal info
-name: Simonezz
+name: Simone
 title: 꾸준히 공부하는 개발자
 email: saeheejeon25@gmail.com
 # email_title: Email (Email title override)
@@ -75,6 +75,7 @@ content:
           - MobileNet을 이용하여 feature vector 추출
           - TFIDF를 이용하여 텍스트 유사도 계산
           - yolov5로 검출된 문제 내 도형/그래프 영역을 이용한 고도화 
+          - 한국어 BERT를 Fine-Tuning하여 유형분류 자동화 및 텍스트 feature vector 추출
           
   - title: Education
     layout: list
@@ -85,9 +86,7 @@ content:
         caption: 2014.03 -2018.02
         description: |
            - 수학 전공 / 계산과학 부전공
-           - S.E.M(Sweet Ewha Math) 동아리 활동(2015/03~2017/12)
-           - 수학과 편집부 활동(2016/04~2018/02)
-           - 이화 모교 방문단 활동(2014/05)
+           - 방학 내 Image processing Lab Intern : Demosaic, Zooming, Subdivision 등의 이미지 프로세싱 모델링 학습 및 실습
         
       - layout: top-left
 
@@ -100,7 +99,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Image processing을 세부전공으로 Image Denoising, Approximation Theory,
           - Numerical Analysis, Deep Learning 분야 학습/연구.
-          - 졸업 논문 : Improved Poisson-Gaussian Denoising Method Based on Weighted Nuclear Norm Minimization
+          - 졸업 논문 : Improved Poisson-Gaussian Denoising Method Based on Weighted Nuclear Norm Minimization(Non Deep Learning)
 
 
   - title: Interest
