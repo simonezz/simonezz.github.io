@@ -83,7 +83,7 @@ content:
       - layout: top-right
         title: Ewha w.univ
         sub_title: BA Mathematics
-        caption: 2014.03 -2018.02
+        caption: 2014.03 - 2018.02
         description: |
            - 수학 전공 / 계산과학 부전공
            - 방학 내 Image processing Lab Intern : Demosaic, Zooming, Subdivision 등의 이미지 프로세싱 모델링 학습 및 실습
@@ -93,7 +93,7 @@ content:
       - layout: top-right
         title: Ewha w.univ
         sub_title: M.S. Mathematics
-        caption: 2018-2020
+        caption: 2018.03 - 2020.02
         quote: >
           수학 - 응용해석학 Image processing Lab 전공
         description: | # this will include new lines to allow paragraphs
