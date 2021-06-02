@@ -42,17 +42,16 @@ additional_links:
 about_title: Saehee Jeon
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  어렸을 때부터 수학을 좋아하여 수학과에 진학 후 코딩에 관심이 생겨 이후 코딩의 재미에 푹 빠져살고 있는 개발자 전세희입니다.
-  석사로 이미지 프로세싱 분야를 전공 후 도메인에 국한되지 않고 이미지, 자연어 모두에 관심을 가지고 꾸준히 공부하고 있습니다.
-  현재 한 스타트업에서 추천시스템 연구/개발 직무에 몸담고 있습니다. 데이터 자체의 유사성을 텍스트/이미지 기반으로 측정하는 방법과
-  유저의 활동로그를 기반으로 추정하는 방법을 사용하고 있습니다.
+  프리윌린 머신러닝 연구원으로 일하고 있는 전세희입니다.
+  석사로 이미지 프로세싱 분야를 전공하던 중 딥러닝을 이용한 vision task에 흥미가 생겨 졸업 후 딥러닝 분야에서 공부하며 일하고 있습니다. 
+  도메인에 국한되지 않고 이미지, 자연어 모두에 관심을 가지고 꾸준히 공부하고 있습니다. 특히 이미지/자연어를 이용한 검색 모델링에 깊은 관심을 갖고 있습니다.
+
 
   관심 분야
-  - Computer Vision : segmentation, detection, classification, OCR
-  - NLP : sentence embeddings, word embeddings, translation
+  - Image Retrieval(Metric Learning)
+  - Computer vision : unsupervised classification/ few shot learning
+  - NLP : sentence embeddings, word embeddings, classification
   - Recommendation system, ranking
-  - Data Engineering
-  - Graph Neural Network
 
 content:
   - title: Projects # Title for the section
@@ -78,12 +77,12 @@ content:
     content:
       - layout: right
         title: Freewheelin
-        sub_title: 추천시스템 연구/개발
+        sub_title: 유사 데이터 검색
         caption: July 2020 - present
         quote: >
           수학문제 은행 소프트웨어 스타트업
         description: | # this will include new lines to allow paragraphs
-          학생들의 성적 향상을 위한 추천시스템 개발(유사문제 검색, 개인화 맞춤 서비스 제공)
+          학생들의 성적 향상을 유사문제 검색, 유형 자동분류 엔진 개발
   - title: Education
     layout: list
     content:
@@ -94,7 +93,7 @@ content:
         quote: >
           수학 심화전공, 계산과학 부전공
         description: | # this will include new lines to allow paragraphs
-          수학을 주전공으로 하며 계산과학 부전공을 통해 코딩 입문.
+          주전공 : 수학 / 부전공 : 계산과학
 
       - layout: top-right
         title: Ewha w.univ
@@ -110,13 +109,13 @@ content:
   - title: Interest
     layout: text
     content: | # this will include new lines to allow paragraphs
-      데이터 엔지니어링, 데이터 사이언스, 컴퓨터비전, 자연어처리, aws, 자전거, 클라이밍, 불어, 영어회화, 독서(특히 정세랑 작가님 책들), 인공지능 윤리, 피아
+      데이터 사이언스, 컴퓨터비전, 자연어처리, 자전거, 러닝, 불어공부, 영어회화, 독서, 인공지능 윤리, 피아노
 
 
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-        Python, Matlab, C, SQL, Elasticsearch, English
+        Python(+TensorFlow, PyTorch), MATLAB, C, MySQL, Elasticsearch, English
 
 # Footer
 footer_show_references: true
