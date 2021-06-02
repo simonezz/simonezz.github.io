@@ -58,20 +58,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+        title: Recommender System
+        link: https://github.com/simonezz/RecSys
+        link_text: Github
   - title: Experience
     layout: list
     content:
@@ -82,28 +71,36 @@ content:
         quote: >
           수학문제 은행 소프트웨어 스타트업
         description: | # this will include new lines to allow paragraphs
-          학생들의 성적 향상을 유사문제 검색, 유형 자동분류 엔진 개발
+          - 학생들의 성적 향상을 위한 추천시스템 개발(유사문제 검색, 학생 맞춤 서비스 개발)
+          - MobileNet을 이용하여 feature vector 추출
+          - TFIDF를 이용하여 텍스트 유사도 계산
+          - yolov5로 검출된 문제 내 도형/그래프 영역을 이용한 고도화 
+          
   - title: Education
     layout: list
     content:
       - layout: top-right
         title: Ewha w.univ
         sub_title: BA Mathematics
-        caption: 2014-2018
-        quote: >
-          수학 심화전공, 계산과학 부전공
-        description: | # this will include new lines to allow paragraphs
-          주전공 : 수학 / 부전공 : 계산과학
+        caption: 2014.03 -2018.02
+        description: |
+           - 수학 전공 / 계산과학 부전공
+           - S.E.M(Sweet Ewha Math) 동아리 활동(2015/03~2017/12)
+           - 수학과 편집부 활동(2016/04~2018/02)
+           - 이화 모교 방문단 활동(2014/05)
+        
+      - layout: top-left
 
       - layout: top-right
         title: Ewha w.univ
-        sub_title: MS Mathematics
+        sub_title: M.S. Mathematics
         caption: 2018-2020
         quote: >
           수학 - 응용해석학 Image processing Lab 전공
         description: | # this will include new lines to allow paragraphs
-          Image processing을 세부전공으로 Image Denoising, Approximation Theory,
-          Numerical Analysis, Deep Learning 분야를 연구.
+          - Image processing을 세부전공으로 Image Denoising, Approximation Theory,
+          - Numerical Analysis, Deep Learning 분야 학습/연구.
+          - 졸업 논문 : Improved Poisson-Gaussian Denoising Method Based on Weighted Nuclear Norm Minimization
 
 
   - title: Interest
