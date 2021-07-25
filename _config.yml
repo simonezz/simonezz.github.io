@@ -6,7 +6,7 @@ repository: simonezz.github.io
 version: 2
 
 # Personal info
-name: Simone
+name: Simonezz
 title: 꾸준히 공부하는 개발자
 email: saeheejeon25@gmail.com
 # email_title: Email (Email title override)
@@ -42,64 +42,69 @@ additional_links:
 about_title: Saehee Jeon
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  프리윌린 머신러닝 연구원으로 일하고 있는 전세희입니다.
+  데이터 사이언티스트로 성장중인 전세희입니다.
   석사로 이미지 프로세싱 분야를 전공하던 중 딥러닝을 이용한 vision task에 흥미가 생겨 졸업 후 딥러닝 분야에서 공부하며 일하고 있습니다. 
-  도메인에 국한되지 않고 이미지, 자연어 모두에 관심을 가지고 꾸준히 공부하고 있습니다. 특히 이미지/자연어를 이용한 검색 모델링에 깊은 관심을 갖고 있습니다.
+  도메인에 국한되지 않고 이미지, 자연어 모두에 관심을 가지고 꾸준히 공부하고 있습니다. 특히 로그데이터를 이용한 추천시스템과 이미지/자연어를 이용한 검색 모델링에 깊은 관심을 갖고 있습니다.
 
 
   관심 분야
+  - Recommendation system, ranking
   - Image Retrieval(Metric Learning)
   - Computer vision : unsupervised classification/ few shot learning
   - NLP : sentence embeddings, word embeddings, classification
-  - Recommendation system, ranking
+  
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Recommender System
-        link: https://github.com/simonezz/RecSys
-        link_text: Github
+        title: Project name
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
   - title: Experience
     layout: list
     content:
       - layout: right
         title: Freewheelin
         sub_title: 유사 데이터 검색
-        caption: July 2020 - present
+        caption: July 2020 - July 2021
         quote: >
           수학문제 은행 소프트웨어 스타트업
         description: | # this will include new lines to allow paragraphs
-          - 학생들의 성적 향상을 위한 추천시스템 개발(유사문제 검색, 학생 맞춤 서비스 개발)
-          - MobileNet을 이용하여 feature vector 추출
-          - TFIDF를 이용하여 텍스트 유사도 계산
-          - yolov5로 검출된 문제 내 도형/그래프 영역을 이용한 고도화 
-          - 한국어 BERT를 Fine-Tuning하여 유형분류 자동화 및 텍스트 feature vector 추출
-          
+          학생들의 성적 향상을 유사문제 검색, 유형 자동분류 엔진 개발
   - title: Education
     layout: list
     content:
       - layout: top-right
         title: Ewha w.univ
         sub_title: BA Mathematics
-        caption: 2014.03 - 2018.02
-        description: |
-           - 수학 전공 / 계산과학 부전공
-           - 방학 내 Image processing Lab Intern : Demosaic, Zooming, Subdivision 등의 이미지 프로세싱 모델링 학습 및 실습
-        
-      - layout: top-left
+        caption: 2014-2018
+        quote: >
+          수학 심화전공, 계산과학 부전공
+        description: | # this will include new lines to allow paragraphs
+          주전공 : 수학 / 부전공 : 계산과학
 
       - layout: top-right
         title: Ewha w.univ
-        sub_title: M.S. Mathematics
-        caption: 2018.03 - 2020.02
+        sub_title: MS Mathematics
+        caption: 2018-2020
         quote: >
           수학 - 응용해석학 Image processing Lab 전공
         description: | # this will include new lines to allow paragraphs
-          - Image processing을 세부전공으로 Image Denoising, Approximation Theory,
-          - Numerical Analysis, Deep Learning 분야 학습/연구.
-          - 졸업 논문 : Improved Poisson-Gaussian Denoising Method Based on Weighted Nuclear Norm Minimization(Non Deep Learning)
+          Image processing을 세부전공으로 Image Denoising, Approximation Theory,
+          Numerical Analysis, Deep Learning 분야를 연구.
 
 
   - title: Interest
