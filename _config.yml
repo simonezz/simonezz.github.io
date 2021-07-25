@@ -42,16 +42,17 @@ additional_links:
 about_title: Saehee Jeon
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  프리윌린 머신러닝 연구원으로 일하고 있는 전세희입니다.
+  데이터 사이언티스트로 성장중인 전세희입니다.
   석사로 이미지 프로세싱 분야를 전공하던 중 딥러닝을 이용한 vision task에 흥미가 생겨 졸업 후 딥러닝 분야에서 공부하며 일하고 있습니다. 
-  도메인에 국한되지 않고 이미지, 자연어 모두에 관심을 가지고 꾸준히 공부하고 있습니다. 특히 이미지/자연어를 이용한 검색 모델링에 깊은 관심을 갖고 있습니다.
+  도메인에 국한되지 않고 이미지, 자연어 모두에 관심을 가지고 꾸준히 공부하고 있습니다. 특히 로그데이터를 이용한 추천시스템과 이미지/자연어를 이용한 검색 모델링에 깊은 관심을 갖고 있습니다.
 
 
   관심 분야
+  - Recommendation system, ranking
   - Image Retrieval(Metric Learning)
   - Computer vision : unsupervised classification/ few shot learning
   - NLP : sentence embeddings, word embeddings, classification
-  - Recommendation system, ranking
+  
 
 content:
   - title: Projects # Title for the section
